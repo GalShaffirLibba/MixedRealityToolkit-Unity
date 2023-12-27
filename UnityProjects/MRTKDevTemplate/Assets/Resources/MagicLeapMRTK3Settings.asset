@@ -43,7 +43,7 @@ MonoBehaviour:
   m_Name: MagicLeapMRTK3SettingsPermissionsConfig
   m_EditorClassIdentifier: 
   version: 1
-  autoRequestDangerousPermissionsEnabled: 0
+  autoRequestDangerousPermissionsEnabled: 1
   dangerousPermissions:
   - permission: android.permission.CAMERA
     label: CAMERA
